@@ -1,0 +1,515 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christs gracious intentions of peace and mercy towards sinners, freely tendred together with the necessity of observing the season, and accepting the offer of peace and reconciliation while it may be attained : evidenced in a sermon at St. Pauls, London, Martii 3, 1661 : from Luke 19 verse 41,42 / by Rich. Parr ...</title>
+            <author>Parr, Richard, 1617-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 77 KB of XML-encoded text transcribed from 44 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56447</idno>
+            <idno type="STC">Wing P546</idno>
+            <idno type="STC">ESTC R32209</idno>
+            <idno type="EEBO-CITATION">12356749</idno>
+            <idno type="OCLC">ocm 12356749</idno>
+            <idno type="VID">60152</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56447)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60152)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1024:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christs gracious intentions of peace and mercy towards sinners, freely tendred together with the necessity of observing the season, and accepting the offer of peace and reconciliation while it may be attained : evidenced in a sermon at St. Pauls, London, Martii 3, 1661 : from Luke 19 verse 41,42 / by Rich. Parr ...</title>
+                  <author>Parr, Richard, 1617-1691.</author>
+               </titleStmt>
+               <extent>[16], 70 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nathanael Brook and are to be sold at his shop ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Luke XVIV,42-43 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Graham Hukill</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Graham Hukill</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:60152:1"/>
+            <pb facs="tcp:60152:1"/>
+            <p>CHRISTS GRACIOUS INTENTIONS OF <hi>Peace</hi> and <hi>Mercy</hi> towards ſinners, freely tendred.</p>
+            <p>TOGETHER With the neceſſity of obſerving the ſeaſon, and accepting the offer of <hi>Peace</hi> and <hi>Reconciliation,</hi> while it may be attained.</p>
+            <p>Evidenced in a Sermon at St.<hi>Pauls, London. Martii</hi> 3. 1661. From <hi>Luke</hi> 19. verſe 41, 42.</p>
+            <p>By <hi>Rich. Parr.</hi> D. D. Paſtor of <hi>Camerwell.</hi>
+            </p>
+            <q>
+               <bibl>Heb. 2, 3.</bibl>
+               <p>
+                  <hi>How ſhall we eſcape, if we neglect ſo great Salvation!</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>2 Cor. 6.2</bibl>
+               <p>
+                  <hi>Behold, now is the accepted time, Behold; now is the day of Salvation..</hi>
+               </p>
+            </q>
+            <q>
+               <p>Qui voluntatem Dei ſpreverunt invitantem, Voluntatem Dei ſentient vindicantem.</p>
+               <bibl>
+                  <hi>Aug.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Nathanael Brook,</hi> and are to be ſold at his Shop, at the Sign of the Angel in <hi>Corn-Hill,</hi> 1661.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:60152:2"/>
+            <pb facs="tcp:60152:2"/>
+            <head>TO THE READER.</head>
+            <p>
+               <hi>I</hi> Have no Deſign in publiſhing this Ser<g ref="char:EOLhyphen"/>mon, but Thy good that readeſt it. When I preached at Saint <hi>Pauls,</hi> the Text put me in mind
+<pb facs="tcp:60152:3"/>of <hi>Jeruſalem;</hi> and the ſad aſpect it had on <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> made me the more earneſt and particular in the application. It had hen the Lot (as all pub<g ref="char:EOLhyphen"/>lique Diſcourſes have) to be cenſured as mens hu<g ref="char:EOLhyphen"/>mours and apprehenſions are, which are various; and they judge of things for the moſt part as they af<g ref="char:EOLhyphen"/>fect: But with ſome among thoſe many preſent then, this Sermon had ſucceſſe and acceptance. To the Truths in the Doctrines;
+<pb facs="tcp:60152:3"/>ſome bore Teſtimony, and others were convinced; And I am ſure it concern<g ref="char:EOLhyphen"/>ed every one, as well as any one.</p>
+            <p>And now, Reader, you ſee I make the Dedication to none but thee, becauſe none but he that will vouchſafe the ſerious per<g ref="char:EOLhyphen"/>uſall, is capable of it. I beg not Patronage from any body; but if the Truths therein, and the Cauſe in hand, and ho<g ref="char:EOLhyphen"/>neſt Intentions cannot ſe<g ref="char:EOLhyphen"/>cure it, and juſtifie its
+<pb facs="tcp:60152:4"/>walk abroad, let it fall; and if it fall into thy hand, heart, and practice, it can<g ref="char:EOLhyphen"/>not be loſt.</p>
+            <p>The Deſigne of this Sermon was, at preaching, and now is in publiſhing, To let every one know as well as <hi>London,</hi>
+            </p>
+            <p n="1">
+               <hi>1.</hi> How gracious the Lord Jeſus is toward poor ſinners, And how ill he takes it, to be ſlighted in his offers of grace, and Termes of peace and re<g ref="char:EOLhyphen"/>conciliation, when ſinners moſt need it —. And</p>
+            <pb facs="tcp:60152:4"/>
+            <p n="2">
+               <hi>2.</hi> To give warning from the Lord, That you let not ſlip your ſea<g ref="char:EOLhyphen"/>ſon and day of grace, and ſaving mercy, while you may have it; Alas, how ill muſt it go with that ſoul, when the day is lost as to it, and the merci<g ref="char:EOLhyphen"/>full offer withdrawn! And truly, were it not a mat<g ref="char:EOLhyphen"/>ter of the higheſt concern<g ref="char:EOLhyphen"/>ment in the whole world, that herein is treated of; I would not have let it gone beyond that Numerous Congregation,
+<pb facs="tcp:60152:5"/>where 'twas preached.</p>
+            <p>But conſidering that deliberate Reading, and ſerious Conſideration may much improve the uſe more then haſty Preach<g ref="char:EOLhyphen"/>ing; I am at length pre<g ref="char:EOLhyphen"/>vailed withall by ſome devout ſoules importuni<g ref="char:EOLhyphen"/>ty, to let it come forth without any more or leſſe than what was deliver<g ref="char:EOLhyphen"/>ed, except what it got or loſt in the preſſe, which I muſt not own.</p>
+            <p>And now if the open<g ref="char:EOLhyphen"/>ing and applying theſe two
+<pb facs="tcp:60152:5"/>dostrines may he accep<g ref="char:EOLhyphen"/>table to the Reader:</p>
+            <p>The firſt manifeſting Chriſts reall, free, and moſt gracious intentions toward ſinners, in deſign<g ref="char:EOLhyphen"/>ing their converſion and eternall ſalvation, most heartily, most paſsio<g ref="char:EOLhyphen"/>nately, moſt powerful<g ref="char:EOLhyphen"/>ly, and fully, on his part.</p>
+            <p>This is clearely pro<g ref="char:EOLhyphen"/>ved: And then the ſe<g ref="char:EOLhyphen"/>cond which evidenceth the neceſsity of improving the mercy in due time, by
+<pb facs="tcp:60152:6"/>accepting the offer, and complying with Chriſts de<g ref="char:EOLhyphen"/>mands on his own terms, in the day of grace, as it is the greateſt concern<g ref="char:EOLhyphen"/>ment in the world to eve<g ref="char:EOLhyphen"/>ry one that makes any reckoning, whether he be ſaved or damned eter<g ref="char:EOLhyphen"/>nally.</p>
+            <p>If thoſe Two Points which are here diſcuſſed, will draw the Reader on to the peruſall with an honeſt heart, and that he thinks them of any moment, let him read
+<pb facs="tcp:60152:6"/>on, and conſider; If not, then lay the Sermon by, and deſpiſe thy mer<g ref="char:EOLhyphen"/>cies, loſe thy day, caſt away thy ſoul, lye down in ſorrow, and lament thy ir<g ref="char:EOLhyphen"/>reparable and unrecovera<g ref="char:EOLhyphen"/>ble loſſe. But if <hi>Thou</hi> hast a mind to be happy indeed, and ſaved eter<g ref="char:EOLhyphen"/>nally; Then, whether thou read any more of this or not, let me prevaile with thee, as thou valueſt thy eternall State, delay no long<g ref="char:EOLhyphen"/>er; put not off again
+<pb facs="tcp:60152:7"/>any more the intreaties of Chriſt, and the offers made thee in the Goſpel, and brought to thee in the name of the Lord Jeſus, by them who are intruſted with the conditions of Re<g ref="char:EOLhyphen"/>conciliation, and are treat<g ref="char:EOLhyphen"/>ing with you in the Mi<g ref="char:EOLhyphen"/>niſtery to this end, and calling upon you to accept in time, what may do you good for ever; And doe not (ah, doe not) put Christ and his Mini<g ref="char:EOLhyphen"/>ſters to ſay of thee, and mourn over thee, with
+<pb facs="tcp:60152:7"/>an <hi>O that thou hadſt known, even thou, at leaſt in this thy day, the things which belong to thy peace! But now they are hid from thine eyes.</hi>
+            </p>
+            <p>Know therefore thy day, embrace Grace while ten<g ref="char:EOLhyphen"/>dred, make up thy peace with God while it may be made, lay in for thy inte<g ref="char:EOLhyphen"/>reſt by Chriſt, lay up treaſure in Heaven; Let not Chriſt go, force him not away from thy Soul, as the Jewes did from their
+<pb facs="tcp:60152:8"/>City, but cloſe with him, cleave to him ſtedfaſtly; take him for thy Saviour, and for thy Lord, leave him not, and he will never leave thee comfortleſſe; let thy ſinnes go, caſt them all away this day, let not one day paſſe away again without thy hearty cloſing with Chriſt; let him rule in thee, and over thee; im<g ref="char:EOLhyphen"/>prove the day of viſitati<g ref="char:EOLhyphen"/>on, and be happy; re<g ref="char:EOLhyphen"/>ſolve upon a godly life, make Religion thy chiefeſt care, and the glory of
+<pb facs="tcp:60152:8"/>God and his free grace, in the ſalvation of thy preci<g ref="char:EOLhyphen"/>ous ſoul, thy aime and ultimate end; and lay to heart the things belonging to thy peace: Read the reſt, and conſider all, and God bleſſe it to thee.</p>
+            <closer>
+               <signed>Thy friend and Servant, in the faith of <hi>Jeſus.</hi> R. P.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:60152:9"/>
+            <pb n="1" facs="tcp:60152:9" rendition="simple:additions"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Luk. 19.41, 42.</hi>
+                  </bibl>
+                  <p>And when he was come neer, he beheld the City, and wept o<g ref="char:EOLhyphen"/>ver it.</p>
+                  <p>Sayings, If thou had'ſt known, e<g ref="char:EOLhyphen"/>ven thou, at leaſt in this thy. day, the things that belong unto thy peace! But now, they are hid from thine eyes.</p>
+               </q>
+            </epigraph>
+            <p>THis Scripture readd is a nar<g ref="char:EOLhyphen"/>rative, about our bleſſed Lord Chriſt: both of what Hee <hi>did,</hi> and what Hee <hi>ſaid,</hi> in the day of his fleſh, a little before his departure hence to his Glory a<g ref="char:EOLhyphen"/>gain. And I hope the reading of the Text hath already prepared your attention; and, may the opening of it, and Application, affect your hearts!</p>
+            <pb n="2" facs="tcp:60152:10"/>
+            <p>The ſtory is Sad in the Letter, weeping and lamentation; but more Dolefull in the Event. It ends with a deplorable reflexion of miſery upon the <hi>Jews,</hi> for refuſing their mercy, together with their King and Saviour. Chriſt meant them all good, but they would not have it; they would have none of his good things.</p>
+            <p>Chriſt wept over them, and ſought them, with tears: they cared not, they regarded not. He intrea<g ref="char:EOLhyphen"/>ted them, again and again; but no Importunity, nor love, nor mercy, could win them, all is caſt away upon them. They refuſed and by refuſing, grieved the heart of Chriſt, and undid themſelves for ever; they loſt their day, and loſt their peace, and loſt their ſouls. God had ſent unto them, his Servants the Prophets, formerly to treat with them about the things of their Peace and Eternall happineſs, things of the greateſt concernment imaginable; but all is one to them, they were taken up with other im<g ref="char:EOLhyphen"/>ployments:
+<pb n="3" facs="tcp:60152:10"/>And becauſe the ſer<g ref="char:EOLhyphen"/>vants of the high God, were ſo Im<g ref="char:EOLhyphen"/>portunate, theſe were violent; they did not only ſlight the meſſage, but they beat the Prophets, and abuſed them, and killed them. 'Tis often the lot of thoſe who come in the name of the Lord, on Heavenly Errands; to be moſt ſlighted, and moſt abuſed: ſo then; ſo now.</p>
+            <p>Now Chriſt himſelf appears, the Saviour of the World, in Perſon, from the boſome of Glory; and Hee comes with tenders of the riche'ſt mercies, and deareſt love that ever was heard of; draws neer, beſpeaks their acceptance: but alas, the ſad<g ref="char:EOLhyphen"/>deſt ſtory that ever was told, Hee, the King of Glory, is rejected too; His offers ſlighted, as wel as his ſer<g ref="char:EOLhyphen"/>vants: The <hi>Jews</hi> will be <hi>Jews</hi> ſtill, they'l have none of Chriſt nei<g ref="char:EOLhyphen"/>ther; no peace from him, no re<g ref="char:EOLhyphen"/>demption nor reconciliation by him; We will not (ſay they) have this man to reign over us, <hi>Verſ.</hi> 14. Poor wretches! Did you know whom, did you know what yee re<g ref="char:EOLhyphen"/>fuſed?
+<pb n="4" facs="tcp:60152:11"/>You will not have Chriſt, and with him Grace and Salvati<g ref="char:EOLhyphen"/>on: Why, you ſhall not then. Hea<g ref="char:EOLhyphen"/>ven ſhall not be forced upon you againſt your wills; remember that I would, but you would not: Here is the price of your Redemption, and Salvation brought home, and laid at your doors freely and fully; but if you will not open, and ſtretch forth your hand to lay hold on it, while 'tis here at hand, ſome o<g ref="char:EOLhyphen"/>thers will hereafter be glad of what you refuſe; you ſhall go without it: and when I am gone, and the door of mercy and grace is ſhut againſt you, you may knock but in vain. You will then wiſh (Oh) <hi>that we could but ſee one of the daies of the Son of man,</hi>
+               <note place="margin">Luk. 17.22.</note> 
+               <hi>and ye ſhall not ſee it:</hi> For, now they are hid from thine eyes.</p>
+            <p>This is the cutting Sentence, this is the ſaddeſt part of the ſtory: for the hardneſs of their hearts Chriſt was grieved, knowing well enough, what would come of it. And when he ſaw them ſo indeed, Hee wept
+<pb n="5" facs="tcp:60152:11"/>and ſaid: <hi>If thou had'ſt known, e<g ref="char:EOLhyphen"/>ven thou, in this thy day, the things which belong unto thy peace; but now they are hid.</hi>
+            </p>
+            <p>Now, though there be a win<g ref="char:EOLhyphen"/>ning oratory in every accent of this Text, in every motion, and in eve<g ref="char:EOLhyphen"/>ry expreſſion, and Oh, how power<g ref="char:EOLhyphen"/>full was it, and lively when Chriſt himſelf acted, and ſaid it; who did, as never man did; and ſpake, as ne<g ref="char:EOLhyphen"/>ver man ſpake; Yet becauſe theſe things were done, and ſpoken at a diſtance from us, a good while a<g ref="char:EOLhyphen"/>goe in the Letter of the Text:<note place="margin">Dum nar<g ref="char:EOLhyphen"/>rat Scrip<g ref="char:EOLhyphen"/>tura geſtum prodit My<g ref="char:EOLhyphen"/>ſteriu<g ref="char:cmbAbbrStroke">̄</g>, <hi>&amp;c.</hi>
+               </note> I ſhall let that alone, and conſider it in the myſtery of this Text, and ſo much as belongs to us, I ſhall ap<g ref="char:EOLhyphen"/>ply.</p>
+            <p>Theſe outward actions of Chriſts Body, and words of his mouth, are but ſo many expreſſions, and no<g ref="char:EOLhyphen"/>tices, by which men might perceive the heart of Chriſt towards ſinners; all, as well as thoſe; us, as well as them: for Chriſt hath the ſame heart ſtill in Heaven, that he had on Earth; He is brim-full of love,
+<pb n="6" facs="tcp:60152:12"/>pitty, and compaſſion; and men on earth, have the ſame diſpoſition ſtill as they had, alwaies ſinning, alwaies reſiſting; and except the Lord prevail with us by his Word and Spirit, in the day of his mercy, we ſhall miſs our happineſs as they did theirs.</p>
+            <p>Do not ſay or think, that then was then, and now is now; as though there were, and are, ſeverall Diſpen<g ref="char:EOLhyphen"/>ſations and ſeverall Adminiſtrati<g ref="char:EOLhyphen"/>ons, touching the means and man<g ref="char:EOLhyphen"/>ner of Converſion. No, Chriſt was then, and Chriſt is now; then in in the fleſh, now in the Spirit, and Miniſtery; Chriſt ſpake to them himſelf: He ſpeaks to you, by us: See 2 <hi>Cor.</hi> 5.20. <hi>Now then we are Ambaſſadors for Chriſt: as though God did beſeech you by us, we pray you in Chriſts ſtead, be yereconciled unto God:</hi> Which is the very ſame thing the Text imports; that, as Chriſt did treat with them about their Reconciliation and Salvation: So we with you, in his Name, be<g ref="char:EOLhyphen"/>ſeech and intreat you, in this your
+<pb n="7" facs="tcp:60152:12"/>day, to lay to heart, to know the things of your peace; And if you do not hear us and yeild, but do as they did, Slight, Reſiſt, and Diſo<g ref="char:EOLhyphen"/>bey: it will be your ſad caſe as it was theirs; Mercy will be hid from your eyes, and Salvation from your ſouls, as much as if Chriſt himſelf were now ſpeaking to you, and weeping over you, and bleeding before your eyes, <hi>Luk.</hi> 10.16. <hi>He that heareth you heareth me, he that deſpiſeth you deſpiſeth me.</hi>
+            </p>
+            <p>By this time (Sirs) you eaſily perceive what the deſign of your Monitor is this day with you, from this deportment, and this ſaying of our Saviour recorded in the Text.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/>'Tis to let you know (that you may in time conſider) how graci<g ref="char:EOLhyphen"/>ous the Lord Jeſus is toward ſin<g ref="char:EOLhyphen"/>ners; and how ill he takes it, if this mercy be deſpiſed when offered.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> And to give you warning from the Lord, that you let not ſlip the opportunity, for then it muſt go ill with your ſouls, you will be the
+<pb n="8" facs="tcp:60152:13"/>looſers: Chriſt may looſe the Ho<g ref="char:EOLhyphen"/>nor of your Converſion, but you will looſe the happineſs of Recon<g ref="char:EOLhyphen"/>ciliation and Salvation.</p>
+            <p>The buſineſs we have in hand is of higheſt concernment; life and death are laid before us this day; Oh that you would in this your day conſider the things which be<g ref="char:EOLhyphen"/>long unto your peace, before they be hid from your eyes.</p>
+            <p>I have two Doctrines ready from this Text, to ſerve up this deſign unto you.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> The firſt, to evidence Chriſts re<g ref="char:EOLhyphen"/>all, and gracious intentions towards ſinners.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> The ſecond, to evidence the Ne<g ref="char:EOLhyphen"/>ceſſity of Improving the mercy in due time, by accepting the offer, and complying with Chriſts de<g ref="char:EOLhyphen"/>mands, on the day of grace, as it is the greateſt concernment in the world to us.</p>
+            <p>Then next, and what we have elſe to do, is, to comply with grace and mercy, and reduce all to pra<g ref="char:EOLhyphen"/>ctice this very day, without any
+<pb n="9" facs="tcp:60152:13"/>more delay or Procraſtination, and this wil be urged in the Application.</p>
+            <p>And that we may with leſſe dif<g ref="char:EOLhyphen"/>ficulty believe th truths propoun<g ref="char:EOLhyphen"/>ded, and without haeſitation con<g ref="char:EOLhyphen"/>ſent, and imbrace the mercy offer<g ref="char:EOLhyphen"/>ed, Let us together review the expreſſions in the text, and then we may perceive the mind and meaning of our bleſſed Lord, <hi>by what he hath done,</hi> and <hi>by what he hath ſaid;</hi> to evidence to us what <hi>deſire</hi> he hath that poor ſinners ſhould partake of that he graci<g ref="char:EOLhyphen"/>ouſly offereth, and ſo make peace, and ſo make happy.</p>
+            <p>And while we deſcant upon the words, think with your ſelves they are as much to you, as any others; <hi>Jeruſalem</hi> the City then, <hi>London</hi> now, as great, as rich, as ſinfull, as wicked; Chriſt in perſon there, in Spirit here; Chriſt was near to them, as near to us; he beheld that City, and beholds this; he ſought them, and intreated them; and he ſeeks us, and beſeecheth us; They had an opportunity to be
+<pb n="10" facs="tcp:60152:14"/>happy, ſo have we. And ſurely if there can be any thing, or way to expreſſe an infinite love, a tender care, a moſt hearty longing deſire of the ſalvation of ſinners, it is here implyed.</p>
+            <p>
+               <hi>He drew near, and beheld and wept.</hi>
+            </p>
+            <p>
+               <hi>He]</hi> the Lord of life, full of grace, and full of pity, and full of power, to help poor ſinners to par<g ref="char:EOLhyphen"/>don, to redeem, to ſanctifie to ſave.</p>
+            <p>
+               <hi>Near]</hi> he was ready for it, they come not out to him, he comes up to them, brings ſalvation to their door; 'twas Chriſts love, and ſinners miſery that brought him ſo near.</p>
+            <p>
+               <hi>Beheld]</hi> looked wiſtly on the City, he ſaw the ſtately ſtructures, the rich ornaments, the ſoft ray<g ref="char:EOLhyphen"/>ments, the numerous multitudes, their outward flouriſh and gaiety of Religious profeſſions; and with<g ref="char:EOLhyphen"/>all, he ſaw their manners too, and theirinſide <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> as in a mirrour; what they had been, what they were then for frame of Spirit, and what would come to paſſe, if
+<pb n="11" facs="tcp:60152:14"/>not prevented in time?</p>
+            <p>
+               <hi>Wept]</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he was broken with grief; he ſhed tears, he wept:</p>
+            <p>
+               <hi>Queſt.</hi> But why did Chriſt ſor<g ref="char:EOLhyphen"/>row, and grieve, and weep.</p>
+            <p>
+               <hi>Anſw.</hi> Not that the City was ſo richly laden with outward bleſ<g ref="char:EOLhyphen"/>ſings, Chriſt grudged not their plenty, nor their peace; if they would have been good, they might have been great, and rich, with<g ref="char:EOLhyphen"/>out offence: but he was grieved for them, that they were ſo poor, ſo blind, ſo naked in ſpirituall things; they had proſperous bo<g ref="char:EOLhyphen"/>dies, but ſtarved ſoules: very poli<g ref="char:EOLhyphen"/>tique, and very proud; but very fools and unwiſe about the <hi>unum neceſſarium.</hi> He ſhed his teares over them, becauſe they ſhed none for themſelves; they remembred not their paſt ſins, nor heeded their preſent opportunity, nor fore<g ref="char:EOLhyphen"/>ſaw, nor believed their future mi<g ref="char:EOLhyphen"/>ſeries; they laid none of theſe things to heart, but wilfully refu<g ref="char:EOLhyphen"/>ſed their recovery, they cared not for all theſe things, nor for Recon<g ref="char:EOLhyphen"/>ciliation,
+<pb n="12" facs="tcp:60152:15"/>nor pardon, nor delive<g ref="char:EOLhyphen"/>rance, nor Chriſt, nor grace; they truſted in their own ſtrength, riches, wiſdom, priviledges, with the form of godlineſſe; but as for reconciliation by Chriſt, inward holineſſe, converſion, and the power of chriſtianity, theſe things they looked not after. Hence it was that Chriſt wept, for the hardneſſe of their hearts, and inconſiderateneſſe: <hi>Alas!</hi> how too too like thoſe, are the men of this preſent world after all the care and paines with them: ſo they may <hi>be,</hi> and ſo they may <hi>have</hi> what they would for outwards, what care they? How little are they concerned, for ſoul-ſaving things? and is not this for a lamentation and weeping?</p>
+            <p>Again, Chriſt beheld the City and wept over it.</p>
+            <p>Chriſt had them in preſent <hi>view,</hi> together with their preſent pro<g ref="char:EOLhyphen"/>ſperity, their <hi>intolerable blindneſs, hardneſſe, unbelief,</hi> and <hi>ſtupendious ſupine neglect</hi> of the means of their
+<pb n="13" facs="tcp:60152:15"/>recovery, on this very day which was their laſt day of grace: And this was matter of ſadneſſe.</p>
+            <p>Secondly, And he had in <hi>pro<g ref="char:EOLhyphen"/>ſpect</hi> their future ruine and deſtru<g ref="char:EOLhyphen"/>ction, and this drew tears from the Lord of life; he would, but they would not; he would have given them grace and pardon, and pre<g ref="char:EOLhyphen"/>vented their ruine, but they would not; he would have healed and ſa<g ref="char:EOLhyphen"/>ved them from that day, but they would not. Hence it is that Chriſt wept, both for their preſent hard<g ref="char:EOLhyphen"/>neſſe, and future deſtruction.</p>
+            <p>Alas! Chriſt wept not ſo much for the deſtruction and down<g ref="char:EOLhyphen"/>fall of thoſe ſtately Buildings; he could have raiſed ſuch ones and better, God could quickly have made them as rich again, though they had loſt all by fire, and pillage: but alas, alas they re<g ref="char:EOLhyphen"/>fuſed and rejected ſuch a Lord and Saviour, ſuch grace and rich ſalvation, which God had not the like to give them again; they might have lived as happily any
+<pb n="14" facs="tcp:60152:16"/>where elſe, where Chriſt and ſal<g ref="char:EOLhyphen"/>vation were to be had; but where could they find another Saviour, and another ſuch day, when theſe were finally loſt?</p>
+            <p>
+               <hi>Wept over it,</hi> ſaying] His love to them would not let him depart ſo, but pleads again with them; he'le try again whether his lan<g ref="char:EOLhyphen"/>guage can yet prevaile, ſeeing his tears cannot: for this once he be<g ref="char:EOLhyphen"/>ſpeaks them pathetically; why poor ſoules, you are now upon the point of making or marring, you may be happy this day, and for ever after; oh how happy may you be, and bleſſed!</p>
+            <p>And, if you mark it, his ſpeech is like that of a moſt tender parent, beholding a beloved child wound<g ref="char:EOLhyphen"/>ed to death by his own hand, and wallowing in his blood, and would not be helped, but rejects the means of recovery; grief gives not paſ<g ref="char:EOLhyphen"/>ſage to words; oh how doth Chriſt grieve over theſe wilfull miſera<g ref="char:EOLhyphen"/>ble ſinners, and weeping ſaith, ſcarce can he ſpeak for ſorrow,
+<pb n="15" facs="tcp:60152:16"/>bemoanes them periſhing, with broken words, interrupted with ſighs and groans.</p>
+            <p>
+               <hi>Hadſt thou but known, even thou]</hi> So bad as thou haſt been, yet (even thou) after all thy unkindneſſe to me, thy contempt, thy ſtubborn<g ref="char:EOLhyphen"/>neſſe, thy ſin, and thy folly, thy inſolent carriage toward my Mi<g ref="char:EOLhyphen"/>niſters and meſſengers; yet after all this thy wickedeſſe, and abuſe of my patience, and long-ſuffe<g ref="char:EOLhyphen"/>rance. O yet, yet, after all, if thou haſt in this thy day laid all theſe things to heart, and conſidered who it is that now weeps over thee, that now ſpeaks to thee; who it is, and what, this day, is freely offered thee; if thou wouldſt lay to heart and imbrace yet the things belonging to thy peace, while I am now ſpeaking in this laſt hour of this thy day; this is thy day <hi>(Hic dies eſt tuus)</hi> where<g ref="char:EOLhyphen"/>in yet thou mayeſt lay the founda<g ref="char:EOLhyphen"/>tion of happineſſe, and partake of thoſe things which are matters of the higheſt concernment, ten thou<g ref="char:EOLhyphen"/>ſand
+<pb n="16" facs="tcp:60152:17"/>times more worth then all the pleaſures, the honours, the riches of this world, put all toge<g ref="char:EOLhyphen"/>ther.</p>
+            <p>And if thou come in before this day be cloſed up with night, ere this Sun be ſet upon thee, and this light withdrawn from thine eyes; O happy mayſt thou be: But if thou wilt not,<note place="margin">Acts 17.31</note> in this thy day ac<g ref="char:EOLhyphen"/>cept of thy recovery, but put it off and refuſe it ſtill as thou haſt done, O then, another day will come <hi>(non tuus)</hi> not thine for mercy, but a day of vengeance, Gods day of puniſhment, wherein thou ſhalt pay moſt dearly for all thy folly; a long day of Eternity, of La<g ref="char:EOLhyphen"/>mentation, of mourning, of an<g ref="char:EOLhyphen"/>guiſh and torment, without reme<g ref="char:EOLhyphen"/>dy, for that thou haſt loſt thy day, and that mercy intended, and moſt ſeriouſly offered to thee.</p>
+            <p>So much for explanation of ſo much of this text, which we are ſure belongs unto us. Pray God, the latter clauſe, that killing part<g ref="char:EOLhyphen"/>ing blow, which doom'd that peo<g ref="char:EOLhyphen"/>ple
+<pb n="17" facs="tcp:60152:17"/>to their deſerved loſſe, — <hi>But now are they hid from thine eyes,</hi> may never paſſe on any ſoul here preſent. Whoſe ears can hear that ſentence without Tingling; whoſe heart can conſider this and not tremble? <hi>But now are they hid from thine eyes.</hi> This was long a coming on them, but it came ſure<g ref="char:EOLhyphen"/>ly at laſt; mercy removed from them, miſery came upon them.</p>
+            <p>From this carriage of our bleſ<g ref="char:EOLhyphen"/>ſed Lord Jeſus toward thoſe ſinful people, wherein he expreſſed ſo much care, ſo much love toward them while recoverable, and ſo much pity and commiſeration, when loſt and undone;</p>
+            <p>This firſt OBSERVATION is moſt evident, and ſhall be reſol<g ref="char:EOLhyphen"/>ved into this infallible doctrine of ſaving truth, moſt certain and moſt acceptable,</p>
+            <p>
+               <hi>That God, who is the lover of ſoules, and the giver of grace, doth really, in and by Chriſt, wiſh the con<g ref="char:EOLhyphen"/>verſion and ſalvation of ſinful men; and doth not deſign, nor delight in
+<pb n="18" facs="tcp:60152:18"/>their ſinning nor deſtruction.</hi>
+            </p>
+            <p>This truth is a genuine deducti<g ref="char:EOLhyphen"/>on from the text, and needs no fur<g ref="char:EOLhyphen"/>ther proof, then its own Evidence, 'tis as certain as good, and as true as the goodneſſe, faithfulneſſe, and gracious nature of God can make it; and that is, Eternally true; no man need doubt of this, who will believe any thing worthy of God.</p>
+            <p>Yet for further Evidence, that no poor ſoul among you, may re<g ref="char:EOLhyphen"/>tain any hard or unkind thoughts of God, or reſerve your ſins, and neglect your endeavours upon any ſuſpition of an Invincible neceſſity, of continuing in a ſtate of ſinning by a ſecret decree, Inferring an in<g ref="char:EOLhyphen"/>evitable obligation to Sinne and Damnation, but rather conclude, not againſt the holy and gracious God, but your ſelves; that if you continue in your Rebellion, and Sin, and be at laſt caſt into hell; that 'tis long of your ſelves, your own wilfulneſſe doth procure it. Be<g ref="char:EOLhyphen"/>cauſe you refuſe the grace offer<g ref="char:EOLhyphen"/>ed,
+<pb n="19" facs="tcp:60152:18"/>and to obey when called, and denied ſubjection unto the Lord Jeſus, and reſiſted the motions of Gods Spirit, and deſpiſed admoni<g ref="char:EOLhyphen"/>tion, and ſlighted the means God hath appointed for thy Inſtruction, Conviction, and Converſion: Hence conclude, a ſinners deſtruction is from Himſelf, God diſclaimes it; he is full of mercy, and he is ready to ſhew his good will, to pardon poor ſinners when penitent; and to receive them when they come; and to go forth to meet the vileſt pro<g ref="char:EOLhyphen"/>digal at the firſt ſtep homeward.</p>
+            <p>See how God hath declared himſelf this way, ſo plainly, and ſo freely, and ſo fully to guard this truth in the doctrine from the leaſt Imputation; and to open a Door of hope for poor ſinking deſpondent penitents, to relieve them, and in<g ref="char:EOLhyphen"/>courage them, in their returning to him homeward, <hi>Ezek.</hi> 33.11. ſay unto them, <hi>As I live ſaith the Lord, I have, no pleaſure in the death of the wicked, but that the wicked turn from his way and live;
+<pb n="20" facs="tcp:60152:19"/>turn ye, turn ye from your evill wayes, why will ye dye?</hi> and if God doth not mean in good ear<g ref="char:EOLhyphen"/>neſt, and deſign the converſion and ſalvation of poor ſinners.</p>
+            <p>What mean thoſe ſo often and ſe<g ref="char:EOLhyphen"/>rious invitations, <hi>Matth.</hi> 11.28. why doth Chriſt ſay, <hi>he that com<g ref="char:EOLhyphen"/>eth to me I will in no wiſe caſt out,</hi> John 6.37. and why doth he up<g ref="char:EOLhyphen"/>braid them, <hi>Ye will not come to me that ye might have life;</hi> Joh. 5.40. and <hi>Jeruſalem,</hi>
+               <note place="margin">Matth. 23.37.</note> 
+               <hi>How often would I have gathered you,</hi> and <hi>Iſai</hi> 1.2, 3. why doth he wiſh ſinners had harkned to his voyce, <hi>Pſal.</hi> 81.13, 14. If God did not deſire it, why doth he lay ſuch ſtrict commands upon pain of his high diſpleaſure; To believe and Repent, and turn that they may live?</p>
+            <p>What means Gods pleading and arguing with ſinners, but to con<g ref="char:EOLhyphen"/>vince them? What was the end of hriſts undertaking for the world, but that by him men might be ſa<g ref="char:EOLhyphen"/>ved? <hi>he taſted death for every man,</hi>
+               <note place="margin">Jo. 3.16, 17.</note> Heb. 2.9. and to convince all men
+<pb n="21" facs="tcp:60152:19"/>throughly of Gods good will and pleaſure, and that there is no diſ<g ref="char:EOLhyphen"/>ſimulation in the Lord as touch<g ref="char:EOLhyphen"/>ing this matter. He hath converted and ſaved ſome of every nation, of every ſort, of every degree; as great ſinners, as was; to ſhew that he excludes none from mercy, that come unto Chriſt and believe, and turn from ſinning to holy living.</p>
+            <p>And conſider how the Lord fits all means and uſeth all expreſſi<g ref="char:EOLhyphen"/>ons to effect what he really in<g ref="char:EOLhyphen"/>tends, trying with their hearts, informing their mindes, incline<g ref="char:EOLunhyphen"/>ing their wills, ſtirring up their affections, to reform their lives, that they may be ſaved. And if God did not in good earneſt in<g ref="char:EOLhyphen"/>tend that men ſhould be left with<g ref="char:EOLhyphen"/>out excuſe, why did he ſend his Son into the world, but to ſave ſinners, to call them to repentance, and to ſave them that were loſt? and his Spirit to raiſe thoſe fallen? and his word to guide unto Salva<g ref="char:EOLhyphen"/>tion? why doth he continue the Means? why doth he ſend forth his
+<pb n="22" facs="tcp:60152:20"/>Miniſters, and ſervants, to Invite to the ſupper of the Lamb? why doth he furniſh them with ſeverall gifts, and put ſuch arguments into their mouthes, to convince and perſwarde; and ſuch zeal and fer<g ref="char:EOLhyphen"/>vency into their Prayers, and pow<g ref="char:EOLhyphen"/>er and life into their Sermons and Indefatigableneſſe into their ſtu<g ref="char:EOLhyphen"/>dies, and Labours, and ſuch Cou<g ref="char:EOLhyphen"/>rage into their Spirits; that no re<g ref="char:EOLhyphen"/>proaches, nor menaces, nor denials, makes them give out? Line upon Line, Sermon on Sermon; and though they often times ſee little ſucceſſe in all their labours and pains with ſinners, yet again and again caſt their net, and ſow their good ſeed; doth not all this ſhew that God would loſe none of your precious ſouls, but that you ſhould all come to the knowledge, of the truth, that you might be ſaved.</p>
+            <p>Why doth he in his gracious providence open the doores of the Sanctuary, for all comers, and ſend labourers into his harveſt, and gives us dayes of meeting, to con<g ref="char:EOLhyphen"/>ſult
+<pb n="23" facs="tcp:60152:20"/>with God, and treat about the great affairs of our ſoules, and here to woo us with the cords of a man, the bands of love, if he did not love us? what need all this adoe to prevaile with men, even by diſ<g ref="char:EOLhyphen"/>penſations ſo ſuitable to Rationall ſoules, were it not that God doth delight in, and deſire the conver<g ref="char:EOLhyphen"/>ſion of poor ſinners, and would not have us miſſe our Day of accepta<g ref="char:EOLhyphen"/>tion with the Lord?</p>
+            <p>Again, can you tell what is the meaning of all thoſe ſecret convi<g ref="char:EOLhyphen"/>ctions and touches of conſcience, all thoſe croſſes and afflictions, and a thouſand divine Arts God uſeth, but that God doth leave no way untryed, to weane and to tame worldlings, and refractory ſinners, to bring them home? what could I have done for my vine-yard, <hi>Iſai.</hi> 5. So that 'tis beyond all diſpute, that God is ſerious and willing. and that he is not the cauſe of any mans ſin or perdition? or doth he deſire it, either through want of love, pity, or ſupply of grace,
+<pb n="24" facs="tcp:60152:21"/>or that any ſecret Decree doth put any barre to mans Converſion pri<g ref="char:EOLhyphen"/>marily, and of abſolute Determi<g ref="char:EOLhyphen"/>nation, untill all means and mercies be contemned, and all motions and touches of heart be ſtifled and reſiſted: ſurely if God meant to damn men within the call and line of the Goſpel, upon the ac<g ref="char:EOLhyphen"/>count meerly of abſolute Domini<g ref="char:EOLhyphen"/>on, he need not, he would not, deal as he doth in this gracious manner; no, God hath determined in his word, that if ſinners will ſtand out, and go on in a way of contradicti<g ref="char:EOLhyphen"/>on to his Lawes and will; they ſhall fall upon the edge, and be cut aſunder with their own weapon, and periſh by their own iniquity: and after all, God will be juſtified in their deſtruction: and ſinners that will not lay to heart the things of their peace, in the day wherein God is ſtretching out his hands in mercy, then the in day of Retribu<g ref="char:EOLhyphen"/>tion, and account, they ſhall not have one word to ſay, either by way of excuſe for themſelves,
+<pb n="25" facs="tcp:60152:21"/>or blame on God; they ſhall not be able to ſay they would, but God would not; but this they ſhall be forc't to confeſſe; God would, Chriſt would, his Miniſters would, but alas, I would not.</p>
+            <p>
+               <hi>Queſt.</hi> And hence you have an anſwer ready to that queſtion,<note place="margin">Queſt.</note> How comes it to paſſe (if God be ſo de<g ref="char:EOLhyphen"/>ſirous of mans converſion, and ſal<g ref="char:EOLhyphen"/>vation) that ſo many are damned?</p>
+            <p>'Tis eaſily reſolved, that is,<note place="margin">Anſw.</note> 'tis long of themſelves they do not come unto Chriſt, <hi>they will not come to me,</hi> Jo. 5.40. they did not, they do not, they will not believe, repent, and obey the Goſpel in time, they either refuſe the offer, loſe their day, or perform not the conditions in the Covenant of mercy and grace, indiſpenfibly required to ſalvation; the means are compre<g ref="char:EOLhyphen"/>hended, and conditions on mans part eſtabliſhed by Gods will, as the end is. If ſinners will decline the way, or go contrary to the rule, they may not in reaſon expect the end.</p>
+            <pb n="26" facs="tcp:60152:22"/>
+            <p>Men would be ſaved by grace, but men will not be ruled by graces, <hi>Tit.</hi> 2.11, 12. there is the ſumme of all. Gods free grace, and mans whole duty muſt go together.</p>
+            <p>'Tis true; works perfect, in defective, and intire (as under the firſt demands of God) are not now our conditions, here is our cannot Indeed: but what the Goſpel requires and grace effects, this is your Condition. And if we believe not, repent not effectually, and live not a ſanctified life, holy, juſt, ſober, chaſt, charitable, we act againſt Gods will; and forfeit our intereſt in Chriſt purchaſe and redemption: and wilfully and fooliſhly throw away our ſouls, and ſo periſh eternally; for God hath ſaid, <hi>Ezek.</hi> 18.21.<note place="margin">Ezek. 18.21.30.32.</note> 
+               <hi>But if the wicked will turn from all his ſins that he hath committed, and keep all my ſtatutes, he ſhall ſurely live; he ſhall not dye; he ſhall ſave his ſoul alive:</hi> becauſe he conſidereth, ver. 30. <hi>Repent, and turn your ſelves, ſo iniquity ſhall not be your
+<pb n="27" facs="tcp:60152:22"/>ruine,</hi> for ver. 32. <hi>I have no pleaſure in the death of him that Dieth,</hi> that is damned, <hi>ſaith the Lord God, wherefore turn ye and live.</hi>
+            </p>
+            <p>There is a quaint diſtinction found out by ſome body, I cannot well tell any uſe there is of it, unleſs it be to reconcile ſome mens Doctrines and their Applications, while they tell them in <hi>Theſi</hi> one thing, and in <hi>Hypotheſi</hi> another: and if the di<g ref="char:EOLhyphen"/>ſtinction had never been, it had never been wanted. ('tis this) That according to Gods declared will, God would have ſinners come to repentance, and faith, and holi<g ref="char:EOLhyphen"/>neſſe, and be ſaved: but he hath a ſecret will, by which he would not have them either do ſo, or be ſaved. Though he ſpeaks ſinners fairly, and preſſeth them earneſtly, yet he wills no ſuch matter, but their damnation; and decreed this without reſpect to ſin, ere the men had ſinned.</p>
+            <p>Alas, what a fine repreſentation doth this make of the t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ue God? How much is God and man behold<g ref="char:EOLhyphen"/>ing
+<pb n="28" facs="tcp:60152:23"/>to this diſtinction; Why? what is it leſſe then to render the glori<g ref="char:EOLhyphen"/>ous God ſo to be, as no honeſt fair dealing man would be accounted <hi>(i. e.)</hi> to ſpeak one thing and mean another, to ſhew much love, yet intend much hatred. No cer<g ref="char:EOLhyphen"/>tainly, God means what he ſpeaks, and if any man periſh, (as thou<g ref="char:EOLhyphen"/>ſands do) <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is not becauſe they were forc't to damnation, but be<g ref="char:EOLhyphen"/>cauſe they choſe it; that is, they will not be ſaved in Gods own way; and God hath decreed, (for he hath declared) that no man ſhall be ſaved, but he that believeth in his Son, and obeyeth him in his heart and life,<note place="margin">1 Jo. 5.11. Mark 16.16.</note> 
+               <hi>Jo.</hi> 3. <hi>ult. Mark</hi> 16.16. And methinks this plain dealing with men, anſwers beſt the glory of Gods power and juſtice, grace and mercy; And if any will ſay that the glory of Gods juſtice is ſeen in the damnation of ſinners, I ſay ſo too, and of that glory God will have a great deal: for there are but a few will be ſaved, and what will become of the reſt then?</p>
+            <pb n="29" facs="tcp:60152:23"/>
+            <p>Well let alone, let ſecret things belong to God, 'tis his Prero<g ref="char:EOLhyphen"/>gative to reſerve that to Himſelf,<note place="margin">Deut. 29.</note> which we are not fit to know: but thoſe things that are revealed belong to us, and this that we ſpeak of is ſuch; and then we may ſafely conclude what we have in the doctrine delivered.</p>
+            <p>But would you know the REA<g ref="char:EOLhyphen"/>SONS why God is ſo abundantly gracious to poor ſinners, that de<g ref="char:EOLhyphen"/>ſerve no ſuch things from him?</p>
+            <p>The Reaſon of this a founded in Gods own nature and will,<note place="margin">Reaſon.</note> the foundation is in Himſelf, the mo<g ref="char:EOLhyphen"/>tive from himſelf, his free and li<g ref="char:EOLhyphen"/>beral grace; we are only the ſub<g ref="char:EOLhyphen"/>jects of miſery, and objects of pity, no worth or comelineſſe in us, that wallow in our blood and filth:<note place="margin">Ezek: 16. Pſ. 145.8, 9</note> he will ſhew himſelf firſt th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s way in mercy, becauſe he will ſhew mercy; he is good to all, <hi>his mercy is over all his works;</hi> and you may ſpell the reaſon from the Text-Let<g ref="char:EOLhyphen"/>ters of his name, <hi>Exod</hi> 34.6. <hi>The Lord, the Lord God, mercifull and
+<pb n="30" facs="tcp:60152:24"/>gracious, long-ſuffering, and abun<g ref="char:EOLhyphen"/>dant in goodneſſe and truth, keep<g ref="char:EOLhyphen"/>ing mercy for thouſands, forgiving iniquity, tranſgreſſion, and ſin.</hi>
+            </p>
+            <p>And now, who ſhall ask again, why doth God do thus? ſeeing God is not bound to give a reaſon of his doings? is it not enough for us poor worthleſſe duſt, that God hath revealed himſelf to be thus?</p>
+            <p>Yet ſecondly,<note place="margin">2. <hi>Reaſ.</hi>
+               </note> you ſhall find the fountain of this ſtream of love pity, and mercy in Chriſt Jeſus,<note place="margin">Eph. 3.11, 12. 2 Tit. 1.15 Heb. 2.9. Jo. 3.16.</note> 
+               <hi>Eph.</hi> 3.11, 12. according to the eternal purpoſe which he purpoſed <hi>in Chriſt Jeſus our Lord,</hi> and 2 <hi>Tim.</hi> 1.9, 10. accord<g ref="char:EOLhyphen"/>ing to his own purpoſe, and grace, <hi>which was given us in Chriſt Jeſus before the world began;</hi> and his coming into the world was to ex<g ref="char:EOLhyphen"/>ecute this purpoſe, 1 <hi>Tim.</hi> 2.15. <hi>he taſted death for every man,</hi> Heb. 2.9. <hi>God ſo loved the world, that he ſent his own Son into the world, that whoſoever believeth on him, ſhould not periſh but have everlaſting life,</hi> Jo. 3.10.</p>
+            <pb n="31" facs="tcp:60152:24"/>
+            <p>Chriſt the foundation of this love and grace, and the executio<g ref="char:EOLhyphen"/>ner of this purpoſe and decree; <hi>For the Sonne of man is come to ſave that which was loſt,</hi> that is, Mankinde: <hi>Matth.</hi> 18.11.<note place="margin">Matth. 18.11.</note> And he is not willing that any ſhould periſh, but that all ſhould come to repentance, 2 <hi>Pet.</hi> 3.9.<note place="margin">2 Pet. 3.9.</note> this is reaſon enough, aske no far<g ref="char:EOLhyphen"/>ther.</p>
+            <p>So that now, Sirs, you have the firſt point proved, make no que<g ref="char:EOLhyphen"/>ſtion of it, but believe it aſſuredly, and give God the praiſe of his free grace, and admire the great<g ref="char:EOLhyphen"/>neſſe of his goodneſſe toward the children of men. And conſider withall, the great patience, and long-ſufferance, and forbearance of our gracious God, flowing from this, his rich goodeſſe to thee poor ſinner in Chriſt, as the Emanations from that fountain:<note place="margin">Rom: 2.4.</note> which on pur<g ref="char:EOLhyphen"/>poſe is lengthened out unto thee, to lead to Repentance, and Refor<g ref="char:EOLhyphen"/>mation, as a teſtimony of that rea<g ref="char:EOLhyphen"/>lity in Gods heart, that he willeth
+<pb n="32" facs="tcp:60152:25"/>our ſalvation, and not our deſtru<g ref="char:EOLhyphen"/>ction.</p>
+            <p>Therefore, ſinners, oh, let not this grace and favour be abuſed, deſpiſe it not, accept it with all readineſſe, put not off the intrea<g ref="char:EOLhyphen"/>ties of the Lord, do not ſay of grace, reconciliation, reformation; go for this time and come again, leſt you never hear more of it; but it be hid quite from your eyes: but while a prize is put into your hand, but your heart to it, why ſhould you be fools?</p>
+            <p>And this brings us to a ſecond OBSERVATION.</p>
+            <p>Now in the next place, as this doctrin from the Text hath open<g ref="char:EOLhyphen"/>ed a door of hope to poor ſinners, upon their thoughts of returning to God, ſo as the Smoaking flax may not be quenched, nor the bruiſed reed be quite broken; but may receive flame and ſtrength from the breath of mercy, and power of God:</p>
+            <p>So I muſt ſhut the door of preſumption upon looſe and care<g ref="char:EOLhyphen"/>leſſe
+<pb n="33" facs="tcp:60152:25"/>livers, for ſuch there are, that make no other uſe of Gods grace and favour, but to abuſe it, by making it ſerve their continuance in ſin, <hi>(i. e.)</hi> No man may reſt in Gods mercy in a way of ſinning, no more then deſpaire in a way of re<g ref="char:EOLhyphen"/>penting.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> That men may neither depend on their free-will to be ſaved when they pleaſe, as though they would command grace at pleaſure, or be ſaved on their own account: and that men may not dare to put off or delay their opportunities, but take their day, and in it lay to heart the things which belong unto their peace, before it be hid from their eyes, for when once he day is gone, and that grace tendred to thee, is retired to be boſome of Chriſt; it will be too late, too late. Therefore this Text gives us a doctrine of Caution, and Premu<g ref="char:EOLhyphen"/>nition, thus.</p>
+            <p>
+               <hi>That if ſinners would be parta<g ref="char:EOLhyphen"/>kers of the mercy ſo really intended,</hi>
+               <note place="margin">2. <hi>Doct.</hi>
+               </note> 
+               <hi>and things which belong unto their
+<pb n="34" facs="tcp:60152:26"/>peace mercifully offered, they muſt in due time lay to heart in the day of viſitation, imbrace the offers, cloſe with Chriſt, Repent and turn from their ſins, and ſerve and love the Lord Jeſus heartily, or elſe they ſhall have none uf it;</hi> you loſe your day, you loſe your mercy, you loſe your ſoules.</p>
+            <p>
+               <hi>Hadſt thou known in this thy day,</hi> &amp;c. <hi>but now</hi>—</p>
+            <p>
+               <hi>They are hid from thine eyes.</hi>—</p>
+            <p>This Item and Caution in the Text, is as clear and evident as the other; Chriſt wept for the hard<g ref="char:EOLhyphen"/>neſſe of their hearts, while reco<g ref="char:EOLhyphen"/>verable, and our Lord bemoaned them for their miſery, when paſt recovery; they had their day once, and loſt that day, and 'twas hid from their eyes for ever after.</p>
+            <p>God hath, and doth really in<g ref="char:EOLhyphen"/>tend mercy, and as ſeriouſly doth he tender it ſome time or other, and to all without exception; if ſinners had eyes to ſee it, and hearts to conſider it when offered: but God hath ſet boundaries and limits
+<pb n="35" facs="tcp:60152:26"/>to the time, ſo long will I wait to be gracious; <hi>All the day long have I ſtretched out my hands to a gain-ſaying people:</hi> God will viſit thy ſoul; man muſt wait and obſerve; our times are in Gods hand, we have not the command of our time nor grace; God diſpo<g ref="char:EOLhyphen"/>ſes of both: when therefore it is called, Thy day, it is meant of a cer<g ref="char:EOLhyphen"/>tain time, which God hath ap<g ref="char:EOLhyphen"/>pointed thee, to come in and re<g ref="char:EOLhyphen"/>ceive the mercy, and to improve the talent; but no man muſt hence peremptorily conclude, that he may chuſe his time when he plea<g ref="char:EOLhyphen"/>ſeth, and ſet his day, and limit God to ſuch periods of his life. though he were ſure to live ſo long; alas, if men could command grace and ſalvation when they pleaſe, what fine doings would there be in the world? how would ſinners make God ſerve with their ſins, and wait on them even to their death-bed, and then to ſerve their turn at laſt with ſalvation, <hi>per ſaltum?</hi> Therefore God hath
+<pb n="36" facs="tcp:60152:27"/>given us a day to manifeſt his goodneſſe and love, and hath limi<g ref="char:EOLhyphen"/>ted this to <hi>Hic</hi> and <hi>Nunc,</hi> to ſhew his wiſdom and prerogative. God limits us, we muſt not limit him; if while God gives us a day, we come in, then 'tis ours; but if we come not to the dole that day, and cloſe with the offer, then 'tis loſt to us: yeſterday was, but is not now ours; and to morrow may be again, but not certain. Before we were born, we were not; a day we had not: And when we are dead, and the talent of lead ſeals up our grave, we have no more day for this work,<note place="margin">Eccleſ. 9.10.</note> ſee <hi>Eccleſ.</hi> 9.10. So, <hi>Joh. walk while you have the light,</hi> that is, as the holy Ghoſt ſaith, <hi>to day while it is day, if you will hear his voyce, harden not your hearts.</hi>
+               <note place="margin">Heb. 3.</note> And Saint <hi>Paul</hi> preaching to the <hi>Corinthians,</hi> 2 <hi>Cor.</hi> 6.1, 2. beſeecheth them,<note place="margin">2 Cor. 6.1, 2.</note> 
+               <hi>that they receive not the grace of God in vain,</hi> that is, that they put not off the offer, or delay the re<g ref="char:EOLhyphen"/>ceiving, but preſſeth them to cloſe with the mercy; now, <hi>for
+<pb n="37" facs="tcp:60152:27"/>now is the accepted time, behold now is the day of ſalvation.</hi> And to this doth well agree that paſſage in <hi>Rom.</hi> 12.11. and with the firſt and ſecond verſes of the ſame Chapter, <hi>Be not ſlothfull, but fervent in ſpirit,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>ſerving the Lord</hi> (as our Tranſlation renders it); but <hi>Origen</hi> ſaith, that ſome copies have it, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>ſerving the time,</hi> that is, taking the opportu<g ref="char:EOLhyphen"/>nity; miſſe not your day: there is a time when God may be found by ſinners, and there is a day when God will not be found, <hi>Iſai</hi> 55.6. <hi>Seek the Lord while he may be found, call upon him while he is near.</hi>
+            </p>
+            <p>Though God in mercy ſtrives with men in this Iife, yet he ſaith, <hi>My Spirit ſhall not al<g ref="char:EOLhyphen"/>wayes ſtrive with man,</hi> Gen. 6.3. no, not alwayes in this life; the day of grace may be loſt, before thy life be loſt; yea long before a man comes on his deathbed. There are ſome ſort of ſinners with whom the Lord will have no more to do in a
+<pb n="38" facs="tcp:60152:28"/>way of mercy; will move them no more; the meanes, nor any Sermon ſhall work upon them: it may be they have ſlighted and reſiſted ſo long, that now in judgement they are hardened, and given up as the Iſraelites, after forty yeares, ſo long was their day; and when they had provoked ſo long, 'tis ſaid,<note place="margin">Pſal. 81.11, 12.</note> 
+               <hi>My people would not harken, my people would none of me, ſo I gave them up unto their hearts luſts;</hi> and leaves them it with an (oh) <hi>Oh that my people had harkned to me,</hi> and the next we hear of, was, <hi>that God ſware they ſhould not en<g ref="char:EOLhyphen"/>ter into his reſt,</hi> Pſal. 95.11.</p>
+            <p>You have heard of <hi>Eſau,</hi>
+               <note place="margin">Heb. 12.16, 17.</note> whoſe ſir name (to this day) is, The prophane, he had a fair opportunity for his fa<g ref="char:EOLhyphen"/>thers bleſſing, but either his little e<g ref="char:EOLhyphen"/>ſteem of it, &amp; neglect while it might have been gotten, or his preſump<g ref="char:EOLhyphen"/>tion, that any time he might have had it, the bleſſing was loſt to him, and totally loſt; for after<g ref="char:EOLhyphen"/>ward, when he would have inheri<g ref="char:EOLhyphen"/>ted the bleſſing; he was rejected;
+<pb n="39" facs="tcp:60152:28"/>though he ſought it (when too late) with tears.</p>
+            <p>There is a ſad Inſtance of the caſe, though no perſon named, in <hi>Prov.</hi> 1.13. <hi>Turn you at my Reproof. behold, I will pour out my Spirit upon you, and this be it known unto you, Becauſe I have called and ye have refuſed, I have ſtretched out my hands, and no man regarded; but ye have ſet at nought all my coun<g ref="char:EOLhyphen"/>ſell: I will alſo mock at your cala<g ref="char:EOLhyphen"/>mity, for then ſhall they call upon me, and I will not anſwer; they ſhall ſeek me, but ſhall not find me:</hi> and ſo they are ſerved in their own kind.</p>
+            <p>The like to this for event, you have in the inſtance of the five foo<g ref="char:EOLhyphen"/>liſh virgins; Careleſſe they were, and waited not their opportunity, they loſt their happineſſe, they came too late, the dore was ſhut, they cryed for entrance, but none granted; <hi>Watch therefore,</hi>
+               <note place="margin">Ma. 23.1</note> 
+               <hi>for the know neither the day nor hour wherein the Son of man cometh;</hi> And ſo here in the Text, <hi>Jeruſalem</hi>
+               <pb n="40" facs="tcp:60152:29"/>had a day, as fair an opportunity for their peace and mercy, as could be deſired; but loſt it, and with it their mercy, and their ſouls.</p>
+            <p>And the amount is this,<note place="margin">Note.</note> that if men will conſume their dayes in ſinning, they ſhall loſe their day of ſaving. It may be now at a Ser<g ref="char:EOLhyphen"/>mon, God is treating with thy ſoul, and he hath been formerly ſpeaking to thee, this is not the firſt time, but who knoweth but this may be the laſt time; after ſo many paſt, God may hold his peace, and ſtay his hand, and with<g ref="char:EOLhyphen"/>hold his grace, and you may hear an hundred Sermons more, yet ne<g ref="char:EOLhyphen"/>ver feel one touch of the Spirit more. Preachers may not be hid from your eyes, yet grace may be hid from thine heart.</p>
+            <p>And to be ſure, if not till then, yet when this life is at an end,<note place="margin">Note.</note> thou ſhalt live no more to hear, nor ſee this day; and alas, how many men are dead while they live, dead in ſins<g ref="char:punc">▪</g> and dead, and ſtiffe, and cold to grace, and the intreaties of Chriſt.</p>
+            <pb n="41" facs="tcp:60152:29"/>
+            <p>Therefore let every ſoul that prizeth his peace and ſalvation, take heed and lay to heart the of<g ref="char:EOLhyphen"/>fers of mercy in the day of Gods gracious viſitation; look to it, Sirs, and trifle no longer: <hi>to day if you will hear his voice, harden not your hearts.</hi>
+            </p>
+            <p>Now as all thoſe hints and in<g ref="char:EOLhyphen"/>ſtances do beſpeak your care and watchfulneſſe, leſt you ſhould miſſe your opportunities; So in the next, you ſhall do well ſeriouſly to conſider, for your imitation, while we inſtance in ſome record<g ref="char:EOLhyphen"/>ed in Scripture, which took the ſeaſon, obeyed in due time, and were<g ref="char:punc">▪</g> ſucceſſefull, and became happy in this, that in that their day they knew, and accepted the things that belonged to their peace.</p>
+            <p>And mark as you hear, How they took the firſt opportunity was offered them, though ſome came in later than others.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> In the Parable of the labourers hired, <hi>Matth.</hi> 20.1. to 8. Some
+<pb n="42" facs="tcp:60152:30"/>were called in the morning early, obeyed preſently, and were enter<g ref="char:EOLhyphen"/>tained, they put not off, nor made excuſe.<milestone type="tcpmilestone" unit="unspecified" n="2"/> (2.) Others, the third hour, and they likewiſe went and did what they were called unto, and delayed not. (3.) Others, the ſixth hour and ninth, and they yielded as<g ref="char:punc">▪</g> ſoon as called, and did not make excuſe, nor demanded longer time. (4.) And ſome others that had loytered to the eleventh hour of the day, yet they refuſed not, but preſently ſet themſelves to their buſineſſe; they ſaid not, We will ſtay till to morrow, or ſome other time; and they were accep<g ref="char:EOLhyphen"/>ted alſo: but all this while you muſt note, that each of theſe took their firſt opportunity.</p>
+            <p>You have likewiſe to remem<g ref="char:EOLhyphen"/>ber the good ſucceſſe the five wiſe Virgins had,<note place="margin">Mar. 25.</note> They were ready at the firſt approach of Chriſt, and went in with him to the mar<g ref="char:EOLhyphen"/>riage.</p>
+            <p>So the Prodigal; ſo farre as he went, and ſo idle as he had been;
+<pb n="43" facs="tcp:60152:30"/>yet as ſoon as he was touched, and had his eyes open, and came un<g ref="char:EOLhyphen"/>to himſelf, to his wits again; he no ſooner thinks of his Father's houſe and love, but leaves his ſwine and husks, and makes homeward, and he was met with joy, imbraces, pardon, and mercy.</p>
+            <p>And one inſtance more in this Chapter where the Text is,<note place="margin">Luke 19.5, 6.</note> 
+               <hi>Za<g ref="char:EOLhyphen"/>cheus,</hi> Oh how happy 'twas for him that Chriſt called him on a day, and that ſame day he anſwered, and accepted and was converted; for he made haſte and received Chriſt joyfully into his heart as well as his houſe, and that was the happieſt day he ever had ſeen; and Jeſus ſaid unto him,<note place="margin">Verſe 9.</note> 
+               <hi>This day is ſalvation come to this houſe.</hi>
+            </p>
+            <p>Thus you have this point de<g ref="char:EOLhyphen"/>monſtrated by Scripture, proof, and example: and by this you may per<g ref="char:EOLhyphen"/>ceive, that though God in mercy hath appointed poor ſinners a cer<g ref="char:EOLhyphen"/>tain time, as well as means for their converſion, and reconciliation, and ſome have been ſo happy and
+<pb n="44" facs="tcp:60152:31"/>bleſſed, as to take their opportu<g ref="char:EOLhyphen"/>nity, yet 'tis poſſible, and 'tis pro<g ref="char:EOLhyphen"/>ved, that many have had their day for the like mercies, but have loſt it; for they did not lay to heart the things belonging to their peace in that their day, and afterward were hid from their eyes. This hath been the caſe of verie many, and ſtill is; Pray God no man here pre<g ref="char:EOLhyphen"/>ſent, put off this day's intreaties again as formerly, leſt he haz<g ref="char:EOLhyphen"/>zard his peace and reconciliation again, and ſo loſe this day, and never live to ſee another, for the purpoſe of ſalvation for himſelf.</p>
+            <p>Queſt. <hi>If any man ask me when is this day?<note place="margin">Queſt.</note> How ſhall I know it? which is mine, and which is thine, when is it gone and loſt?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> When and whereſoever Chriſt is preached,<note place="margin">Anſw.</note> and the Goſpel is publiſhed, then and there to that people Chriſt is near, and grace is offered, and this hath been many yeares in <hi>England,</hi> and in <hi>London,</hi> and all this while, have been continued theſe glad tidings
+<pb n="45" facs="tcp:60152:31"/>of peace and reconciliation to ſoules: but when this ſhall be re<g ref="char:EOLhyphen"/>moved out of this place, then it will be hid from your eyes; Chriſt is gone, grace is gone, light is gone, darkneſſe comes, and the day is loſt, and God only knowes, how long it will continue, or how quicklie it will be removed out of our ſight.</p>
+            <p>Would to God men would not deal unkindly with it and drive it away, but repent and believe,<note place="margin">Note.</note> yield and obey, accept and love it, that Chriſt and his Goſpel of grace, might ſtay with us.</p>
+            <p>Queſt. <hi>But ſecondly,</hi>
+               <note place="margin">2. <hi>Queſt.</hi>
+               </note> 
+               <hi>If you would know what time God hath ſet for thy coming in, beyond which he will not wait to be gracious any longer; in which, if thou deſpiſeſt the Call, or refuſeſt the Offer, God will put a bolt, and grace ſhall ſtrive no more with thee:</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This no man knoweth,<note place="margin">Anſw.</note> whether this or the next be the time, but ſurelie it muſt be before the day of death; everie man muſt
+<pb n="46" facs="tcp:60152:32"/>be reconciled to God, ere he die, by faith in Chriſt, Repentance from dead works,<note place="margin">Eccleſ. 9.10.</note> and holy living, or elſe he ſhall never: <hi>now or never,</hi> while grace and the man live to<g ref="char:EOLhyphen"/>gether in this preſent world, ſo long there is hope; but when grace is gone, and thou art driven hence to thy long home, thy day is loſt, and the poor ſinner irrecove<g ref="char:EOLhyphen"/>rable.</p>
+            <p>You had beſt conſider in time what hour of the day 'tis with you,<note place="margin">Note.</note> what is the date of thy life, how many daies and years can each of you reckon; you can tell how long you have lived, and enjoied the means of grace; but can you tell how long you ſhall live in this world, or under the diſcipline of grace with a <hi>win-able</hi> heart? You can neither command time or grace, but you may in time accept the grace offered.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> It may be, ſome that are here preſent this day before the Lord, can ſay with joy and thankfulneſs, They had their day, and knew it,
+<pb n="47" facs="tcp:60152:32"/>the Angel moved and they ſtept in, their hearts were touched, and they yielded; the offer was made and they accepted, Chriſt was near and they embraced him, they ſtood not out, but cloſed with him; in the day of his power they were made willing, and now Chriſt is theirs,<note place="margin">Pſal. 110.3</note> and they are Chriſts; they love him heartilie, and hate ſin per<g ref="char:EOLhyphen"/>fectlie, and live holilie: lift up your heads, pretious ſoules, and be thankful; you have not loſt your day, you are happie now, and in a fair way to heaven, and if you continue in faith and love of Jeſus, and grow in grace, you ſhall be for ever happie in glorie, when you have finiſhed your courſe:</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> It may be, ſome others are here ſtanding, ſome young, ſome aged, with whom Gods Miniſters have been treating, and Gods Spirit ſtri<g ref="char:EOLhyphen"/>ving formerlie, and they have ſtood out untill now; Who knows but that they have bin reſerved for ſuch a time as this; now another prize is put into your hand, this may
+<pb n="48" facs="tcp:60152:33"/>be to them the acceptable time, a day of reconciliation and peace: a day you have now, which thou<g ref="char:EOLhyphen"/>ſands who now lay under wrath and final deſpaire, would prize above Mountains of gold, and Rocks of Rubies, if they had once again ſuch an opportunitie as this; it may be God hath determined, that hitherto to this day thou ſhalt come, and grace and mercie ſhall wait on thee now; but no farther. Chriſt may be paſſing on by thee now,<note place="margin">Note.</note> and looks on thee, and gives a ſecret touch, and bids thee, Come away after him, and leave thy ſins and follow him, and ſaith as to <hi>Zacheus, I will come to thy houſe and bring ſalvation this day.</hi>
+            </p>
+            <p>Oh if there be any ſuch among you, who is touched at heart this minute, let him not quench the ſpirit, nor reject the motion; let him take this opportunitie, and make up the match (<hi>now, even now</hi>) in this place, ere he ſtirre hence, and then he may conclude, he hath not loſt his day, but what<g ref="char:EOLhyphen"/>ever
+<pb n="49" facs="tcp:60152:33"/>he hath been before, yet now he may be be a converted man, a pardoned man, an happie man, in this his day of viſitation, if he lay it now to heart, and conſider it.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> It may be, there are others here, with whom there is no prevailing, no mercie moves them, no teares melts them, no intreaties winne them, no promiſes allure them; in whom the cuſtome of ſin hath worne off the ſenſe of ſinne and miſerie, to whom nothing but the world, and pleaſures, and ſin, is of any account; to whom the Riches and treaſures of grace. and glories of heaven are accoun<g ref="char:EOLhyphen"/>ted poor and mean, and fooliſh things.</p>
+            <p>Such there may be here now, who have had ſome impreſſions on them of good, but now worn out again; thoſe, who, it may be, were once almoſt perſwaded, but now again altogether as obſtinate as ever; who can make a mock of ſin, and ſcoffe of Religion: who
+<pb n="50" facs="tcp:60152:34"/>can laugh or ſleep at a Sermon of life and death, and ſcorn re<g ref="char:EOLhyphen"/>proof, and defie God to his face, and are growing worſe and worſe, filthie, and more filthie; and what may be thought of ſuch? Have they loſt their day.</p>
+            <p>Alas,<note place="margin">Anſw.</note> for ſuch, we know not what God will do with them yet, but thoſe are ſad notices of men given over: &amp; this we ſay, Many dais they have loſt, many mercies have they abuſed, many offers have they re<g ref="char:EOLhyphen"/>jected, many motions have they quenched, much patience have they wronged: and trulie, if there be any day yet for them left (but the day which they cannot avoid, the day wherein God will judge the world, all obſtinate impenitent ſinners to eternal flames) they had beſt look to it, that they may take it when it comes: leſt if that paſſe away too, and be hid from their eyes alſo, and they not converted in that day neither; then muſt they lie down in ſor<g ref="char:EOLhyphen"/>row, ſaying, Oh that I had but
+<pb n="51" facs="tcp:60152:34"/>known! but now it is hid from mine eyes: I ſhall never ſee the day of ſalvation, for I would not know, nor lay to heart the day of viſitation: oh ſinners, think on this,<note place="margin">Note.</note> and trie your tempers, and conſi<g ref="char:EOLhyphen"/>der how long alreadie you have refuſed, will you not henceforth from this time crie unto the Lord, if peradventure he may yet be gra<g ref="char:EOLhyphen"/>cious to thee, if thou return af<g ref="char:EOLhyphen"/>ter thou haſt done all theſe things, <hi>even then turn, turn unto the Lord;</hi>
+               <note place="margin">Jer. 3.4.</note> even <hi>now,</hi> and put all out of doubt, cloſe now with Chriſt, caſt away your ſins, and the queſtion will be beſt reſolved by your practice.</p>
+            <p>So much toward reſolving the quaerie, as far as God hath given us any hints about particular times or ſeaſons, of getting or loſing a mans intereſt in peace and reconci<g ref="char:EOLhyphen"/>liation by Chriſt offered in a day, During a mans life.</p>
+            <p>Now, I know, there are ſome would make a quick anſwer to to this demand, and enough to gratifie the humours of many looſe
+<pb n="52" facs="tcp:60152:35"/>and vain perſons, but not at all to ſatisfie a ſober ſoul that thinks of another world. <hi>Tuſh,</hi> ſay they, What trouble you your ſelf about theſe niceties, take your pleaſure now while you may, and take your time of repentance at leiſure; a little time will do that work: do you not remember? that, <hi>At what time ſoever;</hi> And, the <hi>Thief on the Croſſe?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Indeed here is a <hi>rare Example,</hi>
+               <note place="margin">Anſw.</note> and a <hi>ſhort halfe-ſen<g ref="char:EOLhyphen"/>tence,</hi> which men abuſe to their undoing.</p>
+            <p>I could anſwer this at large, but this I onlie ſay now to you, that have not debauch'd your Reaſon, and loſt Conſideration.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> When any of you can diſpatch the whole dutie of man, the <hi>All</hi> of Faith and Repentance, and new Obedience, in a trice, and on your death-bed, and can be aſſured withall, that you ſhall have then time enough, and grace enough, and will enough, and ſtrength enough to perform all; then you
+<pb n="53" facs="tcp:60152:35"/>may deferre untill your dying day: but untill this be made ſure to you, be not ſo fooliſh as to caſt away your ſoules, upon ſuch de<g ref="char:EOLhyphen"/>ſperate attempts and impoſſibi<g ref="char:EOLhyphen"/>lities.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+               <hi>And for the Thief</hi>] when any of you, or any bodie elſe you know, can have the like opportunitie to die with ſuch circumſtances, to be put to death in the ſame place on the ſame day, with the Saviour of the world, our bleſſed Jeſus, and to be the happie inſtance of a great miracle; then, and not untill all theſe things be hoped for, let no man think, that (though it may be many a mans caſe to die as great a Malefactor as he was) yet that any bodie in the world ſhould imagine, that one ſingle inſtance ſhould juſtify his preſump<g ref="char:EOLhyphen"/>tion, when 'twas never intended, for to give any hopes to any rebel<g ref="char:EOLhyphen"/>lious ſinner; ſeeing he was the <hi>firſt</hi> and the <hi>laſt</hi> of that kind: And ſurelie it is a deſperate game<g ref="char:EOLhyphen"/>ſter that doth venture all he is
+<pb n="54" facs="tcp:60152:36"/>worth, in this and another world; at one caſt of dice; and that, leſſe then Ams-ace: Shew me another like this, or elſe hold thy peace, and leave off arguing the caſe, leſt you make it deſperate. How much more ſafe is it, as well as Rational, to do that while we may, and have opportunitie, than to put it off, <hi>(to)</hi> while we cannot perform what of abſolute neceſ<g ref="char:EOLhyphen"/>ſitie is to be done, or the poor ſoul is loſt for ever.</p>
+            <p>Having bin ſo large in the do<g ref="char:EOLhyphen"/>ctrines, I need be the ſhorter in the Application, which comes now in the cloſe: to perſwade the pra<g ref="char:EOLhyphen"/>ctice of <hi>laying to heart</hi> the things of our peace, while it is to day; that in this our day we may know the things belonging to our peace, while we may, ſhortly: Elſe they will be hid from our eyes and then we may no.</p>
+            <div type="application">
+               <head>Application.</head>
+               <p>I ſhall reduce all I have to ſay now to you, about theſe two
+<pb n="55" facs="tcp:60152:36"/>points (you have heard raiſed from the Text) to theſe two Heads, to trie what may be done with you, in behalf of your own precious ſoules this day; which I would diſpatch in an an Eſſay of
+<list>
+                     <item>1. Conviction, &amp; Admonition.</item>
+                     <item>2. Counſell, &amp; Perſwaſion.</item>
+                  </list>
+               </p>
+               <p>And firſt of all, I would (if I could) ſhame the Follie, and re<g ref="char:EOLhyphen"/>prove the Madneſſe of men, ſuch as neglect their ſalvation, by not timelie laying to heart, and ſlight<g ref="char:EOLhyphen"/>ing the Offer: and ſuch as throw away their ſouls by reſiſting grace, and continuance in their ſinne; would I could this day convince them of the greatneſſe of their ſin and néarneſſe of their danger, and dreadfulneſſe of their deſtruction, who have to this day ſtood out wilfullie againſt the intreaties of Chriſt, and ſtill reſolve to do as they have done.</p>
+               <p>Why ſinners! be it known unto you, that this is the Great condem<g ref="char:EOLhyphen"/>nation, this is greater then all your
+<pb n="56" facs="tcp:60152:37"/>ſins (<hi>Jo.</hi> 3.19.) <hi>that light is come into the world, and men love dark<g ref="char:EOLhyphen"/>neſſe rather then light,</hi> (that is) men refuſe and reject Chriſt and Grace, and love their ſins better; they may be ſaved, but they care not; they chuſe thoſe wayes which wil bring them to deſtruction. Who are to be blamed, if ſuch as they are not to be blamed? and are there none ſuch here? what! throw away your remedie.</p>
+               <p>Alas! that Chriſt who ſhould be the Deſire of all nations, ſhould come with tears in his eyes, and love in his heart, and ſalvation in his hand, to ſinners who are the ſhame of all nations? and yet be put off and rejected? He who is everie way lovely, doth ſue to thee ſinner, who art everie way uglie and loathſome. Would he wedd thy ſoul; and wilt not thou be married to him? alas for thee! how wilt thou eſcape the foreſt damnation; if thou neglect ſo great ſalvation.<note place="margin">Heb 2.3.</note> Wilt thou not lay down a luſt, a ſin for his ſake, who
+<pb n="57" facs="tcp:60152:37"/>laid down his life for thy ſake? alas! alas!</p>
+               <p>Why ſinner, what hell doth that ſoul deſerve, that doth deſpiſe heaven? and what miſerie doth he chooſe, that wilfully refu<g ref="char:EOLhyphen"/>ſeth mercie; wo unto thee <hi>Beth<g ref="char:EOLhyphen"/>ſaida,</hi> wo unto thee <hi>Corazin,</hi> wo unto thee <hi>London,</hi> for mightie works have been done in you, and powerfull preaching hath been among you; and if after all, you will ſtill remain impregnable, impenitent and unbelieving: it ſhall be eaſier for <hi>Sodom,</hi> then for this City. Mark that, <hi>Luk.</hi> 10.12, 13.</p>
+               <p>With what face can ſinners cry out upon the curſed Jewes, that rejected their Saviour, and put him to death, and yet do the ſame things themſelves? they choſe a <hi>Barrabbas,</hi> and refuſed Chriſt: but what better art thou, that chooſeſt a luſt to keep it alive, and refuſeſt Chriſt, that would ſave thy live: 'Tis poſſible at a diſtance, men will be Chriſtians, that they will; and hear and ſpeak of grace and hea<g ref="char:EOLhyphen"/>ven
+<pb n="58" facs="tcp:60152:38"/>very complyingly; but alas, when it comes to it, the time and the offer, then no ſuch matter: How doe ſinners draw back? then what excuſes do they make, and what delayes do they uſe, The time is not yet come, or a Farm, or Merchandiſe, a trifle, or a folly comes in between the Heart and Chriſt, that they cannot cloſe; and very often it is in down-right terms, we will not have Him to Reign over us. Is this the way to peace and reconciliation? will this end well at laſt, friends?</p>
+               <p>Alas, (Sirs) what cares Chriſt for your fair words, if your actions be foul? How little doth he eſteem a complement, a cringe, and a nod, if your hearts bow not to his Scepter? will it ſerve our turn that we cry <hi>Hoſanna</hi> to day in our profeſſions, and crucifie him to morrow in our practiſes? what is it the nearer, if we ſay we will from day to day, give up our hearts and lives to Chriſt, and yet do not what we promiſe, but keep our hearts
+<pb n="59" facs="tcp:60152:38"/>upon the world, and ſin every day; well Sirs, there is no dally<g ref="char:EOLhyphen"/>ing with Chriſt and grace, God is ſerious, and ye muſt be ſerious too, or elſe you do but mock God, and deſtroy your own ſouls: what do you do with the naming of Chriſt, if you depart not from iniquity? what do you do with the outſide, and form of godlineſſe, if you de<g ref="char:EOLhyphen"/>ny the power of godlineſſe?</p>
+               <p>Is it not enough, that you have re<g ref="char:EOLhyphen"/>fuſed ſo long, will you ſtill refuſe; when will you return, if you will not now return, when will you be reconciled to God; if this day you refuſe, when will you in good ear neſt cloſe with Chriſt and make an end of ſinning, by Repentance and new obedience; if not now? Is it not enough yet, you have pro<g ref="char:EOLhyphen"/>voked God, and abuſed his long-ſufferance: when will it be enough then? hath not Chriſt waited long enough for thee Sinner, but thou wilt put him to wait longer: why? Chriſt can be without thee, but how canſt thou be without
+<pb n="60" facs="tcp:60152:39"/>Him: if thou be loſt, Chriſt will be Chriſt ſtill; but if Chriſt be loſt to thee, thou art loſt and un<g ref="char:EOLhyphen"/>done for ever.</p>
+               <p>Hath not Chriſt done his part, and the Goſpel its part, and Prea<g ref="char:EOLhyphen"/>chers their part, by intreaties, re<g ref="char:EOLhyphen"/>proofes, inſtructions, counſels, prayers, and tears, but when will you do your parts; namely to yield and obey, to come in and ſubmit to the Lord Jeſus, for grace and ſalvation; O when will it once be? when will it once be?</p>
+               <p>Oh ſinners will you runne on, and not look back, how farre have you gone from your God? and will you not yet conſider how near you are to the laſt day? will you quite forſake him, and never return? to whom will you goe then for eternal life?</p>
+               <p>Go thy way then proud Prodigal to the Swine, and to the husks, wallow there and die; if that be better then thy fathers houſe. Ah ſinner! ſtay, and conſider what thou leaveſt; look upon
+<pb n="61" facs="tcp:60152:39"/>Chriſt, ſee how he wooes thee: ſee how near he drawes to thee, ſee how he bemoanes thee, ſee how grace, reconciliation, and ſalvati<g ref="char:EOLhyphen"/>on courts thee; canſt thou find in thy heart to let him go away from thy ſoul, and canſt thou not find in thy heart to cloſe with him this day, and that he may leave a bleſſing behind him: will no<g ref="char:EOLhyphen"/>thing prevaile with thee? ſhall Chriſt intreat? and ſhall We in<g ref="char:EOLhyphen"/>treat? and ſhall the ſinner remain ſtill as he was? oh! can any Heart ſtand out againſt Chriſt, but an heart of Adamant? can any Bow<g ref="char:EOLhyphen"/>els not yearn, when Chriſt's bowels yearn, but bowels of braſſe? O would to God it might be, that ſome poor wearied ſinner among you, would come and lay down his burden at Chriſts feet, and change Maſters; the worſt for the beſt, ſin and Satan for Chriſt and grace; oh that ſome one of you (among ſo many) that have gone ſo farre, and ſtood out ſo long, would ſtop here, and ſtand out no longer;
+<pb n="62" facs="tcp:60152:40"/>what an happy day would this day prove to thee poor ſoul, if it may prove a day of thy peace, and reconciliation, a day of thy tran<g ref="char:EOLhyphen"/>ſlation from the regions of ſin and death, and Conſecration to the ſervice of Chriſt; A day of thy new birth: O how much better would this day be then the day of thy firſt birth, or if were a day of advancement to all earthly ho<g ref="char:EOLhyphen"/>nours and dignity? oh ſinner wilt thou not yet yield?</p>
+               <p>—Oh that in this thy day thou wouldſt lay this to heart.</p>
+               <p>Uſe II. of Counſell and Perſwaſion.</p>
+            </div>
+            <div type="exhortation">
+               <head>Exhortation.</head>
+               <p>Muſt I part with you ſo without an earneſt exhortation? I cannot, I may not; why may I not hope to prevaile with ſome one or other in this Numerous Congregation this day: it may be I ſhall never ſee your faces more in this place; and 'tis oddes to lay, all you that now
+<pb n="63" facs="tcp:60152:40"/>are here, may not live to ſee ano<g ref="char:EOLhyphen"/>ther ſuch day all together again; the thred may be cut; the life ſpilt as water on the ground, which cannot be gathered up again; ma<g ref="char:EOLhyphen"/>ny of us may be ere to morrow in another world.</p>
+               <p>How doth it concern us all, this day to lay ſome foundation, on which we may build our hopes of happineſſe in the other world?</p>
+               <p>Give me leave to try in the name of Chriſt, what I can do to per<g ref="char:EOLhyphen"/>ſwade you that I may leave ſome<g ref="char:EOLhyphen"/>thing with you, that you may re<g ref="char:EOLhyphen"/>member hereafter, that a poor Mi<g ref="char:EOLhyphen"/>niſter of Chriſt did beſeech you in his name, that you would know, and lay to heart, <hi>the things, be<g ref="char:EOLhyphen"/>longing to your peace, in this your day.</hi>
+               </p>
+               <p>O would to God I might prevail with you for your own good.</p>
+               <p>I exhort you, I beſeech you, <hi>I conjure you in the name of God,</hi> and if I had tears at command, I would intreat you weeping; this.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> That you, every one of you, this
+<pb n="64" facs="tcp:60152:41"/>day, <hi>would let all your ſins goe,</hi> but <hi>let not Chriſt go,</hi> let not grace go, let not this day paſſe away with<g ref="char:EOLhyphen"/>out your hearty and reall cloſing with Chriſt, as ever you look for any good in and by Chriſt; give him leave to baniſh your ſins, and to bear rule in your hearts and lives:<note place="margin">Note.</note> He muſt be thy Lord, or elſe he will never be thy Saviour.</p>
+               <p>Improve this hour of viſitation and be happy, throw away that with loathing and indignation, which hath kept thee ſo long from being fully perſwaded <hi>to be altoge<g ref="char:EOLhyphen"/>ther a Chriſtian,</hi> and be happy; and if any of you feel the door of your hearts now opening to Chriſt,<note place="margin">Pſal. 24, 7, 8.</note> lift them open wide, <hi>that the King of Glory may come in,</hi> that he may have full poſſeſſion; let him rule and raign there, and thou wilt be an happy man.</p>
+               <p>Theſe three things I would counſel you to performe within your hearts, and reſolutions ere you ſtirre hence.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> To make an end of all your ſins
+<pb n="65" facs="tcp:60152:41"/>this day ere you ſleep, in an un<g ref="char:EOLhyphen"/>feigned repentance, and God will ſpeak peace to thee.</p>
+               <p n="2">
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. To make up that happy match between Chriſt and thy ſoul, by receiving Chriſt by Faith, and re<g ref="char:EOLhyphen"/>ſigning up thy ſelf to Chriſt by hear-conſent, love, and obedience: Chriſt is ready now, if thou be ready now; oh do not give him the denial now he is ſo near thee; and canſt thou do any thing better than this? than to match with Chriſt; will any thing in the world be of ſuch concernment to thee as this?</p>
+               <p n="3">
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. To Reſolve this day upon a godly life, to make Religion thy chiefeſt care and buſineſſe; and if you find it now in your hearts to perform theſe three acts, you may be ſure your day is not loſt.</p>
+               <p>Oh Sirs, do this now, as you tender your life and eternal happineſſe; do not put Chriſt off again with any excuſe or denial, but take your opportunity this hour of vi<g ref="char:EOLhyphen"/>ſitation,
+<pb n="66" facs="tcp:60152:42"/>and bleſſe God that you have it.</p>
+               <p>Is there never a poor loſt ſheep here will be fetcht home to the Lord this day? ſhall not this days light bring home one Prodi<g ref="char:EOLhyphen"/>gal? will you all go away, and not any bodies ſoul be brought nearer to Chriſt, nor one jot the more reſolved then before? Why then the Sermon is loſt, and the day is loſt, and God knowes whether we ſhall ſee another Sabbath, or hear another Sermon with any profit, to any purpoſe of good to our ſouls.</p>
+               <p>Oh that you, who have not hitherto been at all perſwaded, would now you were almoſt re<g ref="char:EOLhyphen"/>ſolved; and you, who are almoſt reſolved, would to God you were altogether perſwaded, to be<g ref="char:EOLhyphen"/>come the Lords.</p>
+               <p n="1">
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. You young ones, May one prevaile with you; you are ten<g ref="char:EOLhyphen"/>der yet, will you remember your Creatour? <hi>Eccleſ.</hi> 12.1.</p>
+               <pb n="67" facs="tcp:60152:42"/>
+               <p n="2">
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. You men of age and ſtrength, have you yet conſidered your greater Concernment? may you not be perſwaded? You are or ſhould be wiſe, and hearken to counſel; you have reaſon: Will you go away without yielding to be happy, by embracing of Chriſt, and devoting your ſelves to be truly Religious.</p>
+               <p n="3">
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. You old men, What ſay you to Chriſt now? is it time for you to lay to heart the things of your peace, and to look to your intereſt in Chriſt? you have but little time before you, ſurely you had beſt to make all ſure and faſt this day; look to your Evidence, for you have but a very little time to live ere your Sun be ſet; oh that among theſe hundreds here this day, ſome-one or other at leaſt would be wonne to Chriſt; that it might not be ſaid, Not one would yield to Chriſt, nor cloſe with him this day, of ſo many: that it may never be ſaid, thoſe marbles and
+<pb n="68" facs="tcp:60152:43"/>your hearts are of one make and temper.</p>
+               <p>How gladly would a ſervant that invites for Chriſt, hear of (though but) one whoſe heart is opening, and yielding to Chriſt, that were but <hi>about</hi> to repent and believe, how would he fol<g ref="char:EOLhyphen"/>low him with intreaties, untill the match were fully made and concluded, 'twixt Chriſt and his ſoul.</p>
+               <p>But I ſhall leave all with you, that I have to perſwade withall, in theſe ſix Conſiderations: for Concluſion.</p>
+               <p n="1">
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. Conſider, What if you ſaw our bleſſed Lord Jeſus drawing near you in mercy, beholding, and weeping over you? would you leave him? would you ſlight him? no, you would not? Why then, do not now.</p>
+               <p n="2">
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. Conſider, Can you do bet<g ref="char:EOLhyphen"/>ter then cloſe with Chriſt this day, or if you will not now,
+<pb n="69" facs="tcp:60152:43"/>when do you intend? Oh ſurely you will do worſe, if you do not this; and if you do this now, you cannot do better.</p>
+               <p n="3">
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. Conſider, Is it fit you ſhould wait and begge, and cry hence<g ref="char:EOLhyphen"/>forth after Chriſt, or that He ſhould after you? Who will be the loſers? who will have the worſt of it. If you loſe grace and ſalvation, how will you get this again, or ſuch another?</p>
+               <p n="4">
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. Conſider, Are the things be<g ref="char:EOLhyphen"/>longing to your peace worth the looking after, or not? <hi>Alas, what will you do when you are undone?</hi>
+               </p>
+               <p n="5">
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> 5. Conſider; what if you were certainly perſwaded, that the next time you ſlighted grace in<g ref="char:EOLhyphen"/>treating, and cloſed with ſinne tempting, that God would with<g ref="char:EOLhyphen"/>draw his mercy, and clap dam<g ref="char:EOLhyphen"/>nation on thee? and never look on thee more for good? would
+<pb n="70" facs="tcp:60152:44"/>you then ſlight, what now is offered?</p>
+               <p n="6">
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> 6. Conſider, if this were the laſt day you had to live, the laſt Sermon you had to heare, and ſhortly to go to the other world? would you put off the mercies of this day? How can you tell, but that to morrow, or very ſhortly you muſt be ſent for to the other world, arreſted by death, that ſpares no body?</p>
+               <p>Why then, pretious ſoules, be perſwaded now once for all, to lay to heart this day the things that belong to your peace, be<g ref="char:EOLhyphen"/>fore they be hid from your eyes; The Lord ſet it home, that you may be wiſe and happie. <hi>Oh what will it profit you, to gain the whole world, and loſe your own ſouls?</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:60152:44"/>
+         </div>
+      </body>
+   </text>
+</TEI>
